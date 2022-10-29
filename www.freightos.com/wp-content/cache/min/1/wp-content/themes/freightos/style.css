@@ -1,0 +1,22 @@
+.fifi-ticker .content-wrapper span.lane {
+    color: #232537
+}
+
+.fifi-ticker .content-wrapper span.formatted-currency {
+    color: #232537
+}
+
+.form-and-content__form .gform_confirmation_message {
+    display: block;
+    padding: 40px
+}
+
+#notice_gform_1,
+#notice_gform_4 {
+    color: #000
+}
+
+#notice_gform_1 a,
+#notice_gform_4 a {
+    display: inline-block
+}
